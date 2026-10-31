@@ -6,7 +6,7 @@ Informacije koje možete pronaći u tablici o zračnim kompanijama su: naziv kom
 
 Informacije koje možete pronaći u tablici o zračnim lukama su: naziv luke, grad gdje se nalazi, država gdje se nalazi, IATA kod, ICAO kod, kontinent, ISO države, kategorija luke, je li luka međunarodna ili ne te vremenska zona mjesta u kojem se nalazi luka.
 
-Podaci o zračnim lukama prikupljeni su pomoću web-stranice https://ourairports.com/ .
+Podaci o zračnim lukama prikupljeni su 31.10.2026. pomoću web-stranice OurAirports (https://ourairports.com/) te dostupni su u javnoj domeni.
 
 Metapodaci:
 1. Licenca: Creative Commons Attribution 4.0 International (CC-BY 4.0)
