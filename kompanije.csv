@@ -6,7 +6,7 @@
 5,4,"British Airways","BA","BAW","Ujedinjeno Kraljevstvo","London","Europe","https://www.britishairways.com/","Putnička",True
 6,5,"Air France","AF","AFR","Francuska","Tremblay-en-France","Europe","https://www.airfrance.com/","Putnička",True
 7,6,"KLM","KL","KLM","Nizozemska","Amstelveen","Europe","https://www.klm.com/","Putnička",True
-8,7,"Ryanair","FR","RYR","Irska","Dublin","Europe","https://www.ryanair.com/","Niskotarifna",True
+8,7,"Ryanair","FR","RYR","Irska","Dublin","Europe","https://www.ryanair.com/","Niskotarifna putnička",True
 9,7,"Aer Lingus","EI","EIN","Irska","Dublin","Europe","https://www.aerlingus.com/","Putnička",True
 10,8,"Iberia","IB","IBE","Španjolska","Madrid","Europe","https://www.iberia.com/","Putnička",True
 11,9,"TAP Air Portugal","TP","TAP","Portugal","Lisabon","Europe","https://www.flytap.com/","Putnička",True
