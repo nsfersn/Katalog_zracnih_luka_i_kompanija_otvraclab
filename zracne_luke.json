@@ -9,7 +9,6 @@
         "kontinent": "Europa",
         "iso_drzave": "HR",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+1"
     },
     {
@@ -22,7 +21,6 @@
         "kontinent": "Europa",
         "iso_drzave": "AT",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+1"
     },
     {
@@ -35,7 +33,6 @@
         "kontinent": "Europa",
         "iso_drzave": "DE",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+1"
     },
     {
@@ -48,7 +45,6 @@
         "kontinent": "Europa",
         "iso_drzave": "GB",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+0"
     },
     {
@@ -61,7 +57,6 @@
         "kontinent": "Europa",
         "iso_drzave": "FR",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+1"
     },
     {
@@ -74,7 +69,6 @@
         "kontinent": "Europa",
         "iso_drzave": "NL",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+1"
     },
     {
@@ -87,7 +81,6 @@
         "kontinent": "Europa",
         "iso_drzave": "IE",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+0"
     },
     {
@@ -100,7 +93,6 @@
         "kontinent": "Europa",
         "iso_drzave": "ES",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+1"
     },
     {
@@ -113,7 +105,6 @@
         "kontinent": "Europa",
         "iso_drzave": "PT",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+0"
     },
     {
@@ -126,7 +117,6 @@
         "kontinent": "Europa",
         "iso_drzave": "CH",
         "kategorija": "Međunarodna",
-        "medunarodna": true,
         "vremenska_zona": "UTC+1"
     }
 ]
