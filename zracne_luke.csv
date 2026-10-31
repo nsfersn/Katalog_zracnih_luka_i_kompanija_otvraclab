@@ -1,0 +1,11 @@
+"id_luke","naziv","grad","drzava","iso_drzave","iata_kod","icao_kod","kontinent","vremenska_zona","kategorija","medunarodna"
+1,"Zračna luka Franjo Tuđman","Zagreb","Hrvatska","HR","ZAG","LDZA","Europa","UTC+1","Međunarodna",True
+2,"Vienna International Airport","Beč","Austrija","AT","VIE","LOWW","Europa","UTC+1","Međunarodna",True
+3,"Frankfurt Airport","Frankfurt","Njemačka","DE","FRA","EDDF","Europa","UTC+1","Međunarodna",True
+4,"Heathrow Airport","London","Ujedinjeno Kraljevstvo","GB","LHR","EGLL","Europa","UTC+0","Međunarodna",True
+5,"Paris Charles de Gaulle Airport","Pariz","Francuska","FR","CDG","LFPG","Europa","UTC+1","Međunarodna",True
+6,"Amsterdam Airport Schiphol","Amsterdam","Nizozemska","NL","AMS","EHAM","Europa","UTC+1","Međunarodna",True
+7,"Dublin Airport","Dublin","Irska","IE","DUB","EIDW","Europa","UTC+0","Međunarodna",True
+8,"Adolfo Suárez Madrid–Barajas Airport","Madrid","Španjolska","ES","MAD","LEMD","Europa","UTC+1","Međunarodna",True
+9,"Humberto Delgado Airport","Lisabon","Portugal","PT","LIS","LPPT","Europa","UTC+0","Međunarodna",True
+10,"Zurich Airport","Zürich","Švicarska","CH","ZRH","LSZH","Europa","UTC+1","Međunarodna",True

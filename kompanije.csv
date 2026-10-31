@@ -1,0 +1,13 @@
+"id_kompanije","id_maticne_luke","naziv","iata_kod","icao_kod","drzava","sjediste","regija_poslovanja","web_stranica","tip_kompanije","aktivna"
+1,1,"Croatia Airlines","OU","CTN","Hrvatska","Zagreb","Europe","https://www.croatiaairlines.com/","Putnička",True
+2,2,"Austrian Airlines","OS","AUA","Austrija","Beč","Europe","https://www.austrian.com/","Putnička",True
+3,3,"Lufthansa","LH","DLH","Njemačka","Köln","Europe","https://www.lufthansa.com/","Putnička",True
+4,3,"Condor","DE","CFG","Njemačka","Neu-Isenburg","Europe","https://www.condor.com/","Putnička",True
+5,4,"British Airways","BA","BAW","Ujedinjeno Kraljevstvo","London","Europe","https://www.britishairways.com/","Putnička",True
+6,5,"Air France","AF","AFR","Francuska","Tremblay-en-France","Europe","https://www.airfrance.com/","Putnička",True
+7,6,"KLM","KL","KLM","Nizozemska","Amstelveen","Europe","https://www.klm.com/","Putnička",True
+8,7,"Ryanair","FR","RYR","Irska","Dublin","Europe","https://www.ryanair.com/","Niskotarifna",True
+9,7,"Aer Lingus","EI","EIN","Irska","Dublin","Europe","https://www.aerlingus.com/","Putnička",True
+10,8,"Iberia","IB","IBE","Španjolska","Madrid","Europe","https://www.iberia.com/","Putnička",True
+11,9,"TAP Air Portugal","TP","TAP","Portugal","Lisabon","Europe","https://www.flytap.com/","Putnička",True
+12,10,"SWISS","LX","SWR","Švicarska","Basel","Europe","https://www.swiss.com/","Putnička",True
