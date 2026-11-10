@@ -1,11 +1,21 @@
-"id_luke","naziv","grad","drzava","iso_drzave","iata_kod","icao_kod","kontinent","vremenska_zona","kategorija"
-1,"Zračna luka Franjo Tuđman","Zagreb","Hrvatska","HR","ZAG","LDZA","Europa","UTC+1","Međunarodna"
-2,"Vienna International Airport","Beč","Austrija","AT","VIE","LOWW","Europa","UTC+1","Međunarodna"
-3,"Frankfurt Airport","Frankfurt","Njemačka","DE","FRA","EDDF","Europa","UTC+1","Međunarodna"
-4,"Heathrow Airport","London","Ujedinjeno Kraljevstvo","GB","LHR","EGLL","Europa","UTC+0","Međunarodna"
-5,"Paris Charles de Gaulle Airport","Pariz","Francuska","FR","CDG","LFPG","Europa","UTC+1","Međunarodna"
-6,"Amsterdam Airport Schiphol","Amsterdam","Nizozemska","NL","AMS","EHAM","Europa","UTC+1","Međunarodna"
-7,"Dublin Airport","Dublin","Irska","IE","DUB","EIDW","Europa","UTC+0","Međunarodna"
-8,"Adolfo Suárez Madrid–Barajas Airport","Madrid","Španjolska","ES","MAD","LEMD","Europa","UTC+1","Međunarodna"
-9,"Humberto Delgado Airport","Lisabon","Portugal","PT","LIS","LPPT","Europa","UTC+0","Međunarodna"
-10,"Zurich Airport","Zürich","Švicarska","CH","ZRH","LSZH","Europa","UTC+1","Međunarodna"
+id_luke,naziv_luke,naziv_grada,iso_drzave,drzava,iata_kod,icao_kod,vremenska_zona,kategorija_luke
+1,Zračna luka Franjo Tuđman,Zagreb,HR,Hrvatska,ZAG,LDZA,UTC+1,Međunarodna
+2,Vienna International Airport,Beč,AT,Austrija,VIE,LOWW,UTC+1,Međunarodna
+3,Frankfurt Airport,Frankfurt,DE,Njemačka,FRA,EDDF,UTC+1,Međunarodna
+4,Heathrow Airport,London,GB,Ujedinjeno Kraljevstvo,LHR,EGLL,UTC+0,Međunarodna
+5,Paris Charles de Gaulle Airport,Pariz,FR,Francuska,CDG,LFPG,UTC+1,Međunarodna
+6,Amsterdam Airport Schiphol,Amsterdam,NL,Nizozemska,AMS,EHAM,UTC+1,Međunarodna
+7,Dublin Airport,Dublin,IE,Irska,DUB,EIDW,UTC+0,Međunarodna
+8,Adolfo Suárez Madrid–Barajas Airport,Madrid,ES,Španjolska,MAD,LEMD,UTC+1,Međunarodna
+9,Humberto Delgado Airport,Lisabon,PT,Portugal,LIS,LPPT,UTC+0,Međunarodna
+10,Zurich Airport,Zürich,CH,Švicarska,ZRH,LSZH,UTC+1,Međunarodna
+11,Leonardo da Vinci–Fiumicino Airport,Rim,IT,Italija,FCO,LIRF,UTC+1,Međunarodna
+12,Copenhagen Airport,Kopenhagen,DK,Danska,CPH,EKCH,UTC+1,Međunarodna
+13,Oslo Airport Gardermoen,Oslo,NO,Norveška,OSL,ENGM,UTC+1,Međunarodna
+14,Helsinki Airport,Vantaa,FI,Finska,HEL,EFHK,UTC+2,Međunarodna
+15,Athens International Airport,Atena,GR,Grčka,ATH,LGAV,UTC+2,Međunarodna
+16,Brussels Airport,Bruxelles,BE,Belgija,BRU,EBBR,UTC+1,Međunarodna
+17,Warsaw Chopin Airport,Varšava,PL,Poljska,WAW,EPWA,UTC+1,Međunarodna
+18,Václav Havel Airport Prague,Prag,CZ,Češka,PRG,LKPR,UTC+1,Međunarodna
+19,Budapest Ferenc Liszt International Airport,Budimpešta,HU,Mađarska,BUD,LHBP,UTC+1,Međunarodna
+20,Riga International Airport,Riga,LV,Latvija,RIX,EVRA,UTC+2,Međunarodna

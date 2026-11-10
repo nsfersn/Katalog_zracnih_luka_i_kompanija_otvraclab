@@ -1,122 +1,222 @@
 [
     {
-        "grad": "Zagreb",
-        "naziv": "Zračna luka Franjo Tuđman",
         "drzava": "Hrvatska",
         "id_luke": 1,
         "iata_kod": "ZAG",
         "icao_kod": "LDZA",
-        "kontinent": "Europa",
         "iso_drzave": "HR",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+1"
+        "naziv_luke": "Zračna luka Franjo Tuđman",
+        "naziv_grada": "Zagreb",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
     },
     {
-        "grad": "Beč",
-        "naziv": "Vienna International Airport",
         "drzava": "Austrija",
         "id_luke": 2,
         "iata_kod": "VIE",
         "icao_kod": "LOWW",
-        "kontinent": "Europa",
         "iso_drzave": "AT",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+1"
+        "naziv_luke": "Vienna International Airport",
+        "naziv_grada": "Beč",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
     },
     {
-        "grad": "Frankfurt",
-        "naziv": "Frankfurt Airport",
         "drzava": "Njemačka",
         "id_luke": 3,
         "iata_kod": "FRA",
         "icao_kod": "EDDF",
-        "kontinent": "Europa",
         "iso_drzave": "DE",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+1"
+        "naziv_luke": "Frankfurt Airport",
+        "naziv_grada": "Frankfurt",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
     },
     {
-        "grad": "London",
-        "naziv": "Heathrow Airport",
         "drzava": "Ujedinjeno Kraljevstvo",
         "id_luke": 4,
         "iata_kod": "LHR",
         "icao_kod": "EGLL",
-        "kontinent": "Europa",
         "iso_drzave": "GB",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+0"
+        "naziv_luke": "Heathrow Airport",
+        "naziv_grada": "London",
+        "vremenska_zona": "UTC+0",
+        "kategorija_luke": "Međunarodna"
     },
     {
-        "grad": "Pariz",
-        "naziv": "Paris Charles de Gaulle Airport",
         "drzava": "Francuska",
         "id_luke": 5,
         "iata_kod": "CDG",
         "icao_kod": "LFPG",
-        "kontinent": "Europa",
         "iso_drzave": "FR",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+1"
+        "naziv_luke": "Paris Charles de Gaulle Airport",
+        "naziv_grada": "Pariz",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
     },
     {
-        "grad": "Amsterdam",
-        "naziv": "Amsterdam Airport Schiphol",
         "drzava": "Nizozemska",
         "id_luke": 6,
         "iata_kod": "AMS",
         "icao_kod": "EHAM",
-        "kontinent": "Europa",
         "iso_drzave": "NL",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+1"
+        "naziv_luke": "Amsterdam Airport Schiphol",
+        "naziv_grada": "Amsterdam",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
     },
     {
-        "grad": "Dublin",
-        "naziv": "Dublin Airport",
         "drzava": "Irska",
         "id_luke": 7,
         "iata_kod": "DUB",
         "icao_kod": "EIDW",
-        "kontinent": "Europa",
         "iso_drzave": "IE",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+0"
+        "naziv_luke": "Dublin Airport",
+        "naziv_grada": "Dublin",
+        "vremenska_zona": "UTC+0",
+        "kategorija_luke": "Međunarodna"
     },
     {
-        "grad": "Madrid",
-        "naziv": "Adolfo Suárez Madrid–Barajas Airport",
         "drzava": "Španjolska",
         "id_luke": 8,
         "iata_kod": "MAD",
         "icao_kod": "LEMD",
-        "kontinent": "Europa",
         "iso_drzave": "ES",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+1"
+        "naziv_luke": "Adolfo Suárez Madrid–Barajas Airport",
+        "naziv_grada": "Madrid",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
     },
     {
-        "grad": "Lisabon",
-        "naziv": "Humberto Delgado Airport",
         "drzava": "Portugal",
         "id_luke": 9,
         "iata_kod": "LIS",
         "icao_kod": "LPPT",
-        "kontinent": "Europa",
         "iso_drzave": "PT",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+0"
+        "naziv_luke": "Humberto Delgado Airport",
+        "naziv_grada": "Lisabon",
+        "vremenska_zona": "UTC+0",
+        "kategorija_luke": "Međunarodna"
     },
     {
-        "grad": "Zürich",
-        "naziv": "Zurich Airport",
         "drzava": "Švicarska",
         "id_luke": 10,
         "iata_kod": "ZRH",
         "icao_kod": "LSZH",
-        "kontinent": "Europa",
         "iso_drzave": "CH",
-        "kategorija": "Međunarodna",
-        "vremenska_zona": "UTC+1"
+        "naziv_luke": "Zurich Airport",
+        "naziv_grada": "Zürich",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Italija",
+        "id_luke": 11,
+        "iata_kod": "FCO",
+        "icao_kod": "LIRF",
+        "iso_drzave": "IT",
+        "naziv_luke": "Leonardo da Vinci–Fiumicino Airport",
+        "naziv_grada": "Rim",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Danska",
+        "id_luke": 12,
+        "iata_kod": "CPH",
+        "icao_kod": "EKCH",
+        "iso_drzave": "DK",
+        "naziv_luke": "Copenhagen Airport",
+        "naziv_grada": "Kopenhagen",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Norveška",
+        "id_luke": 13,
+        "iata_kod": "OSL",
+        "icao_kod": "ENGM",
+        "iso_drzave": "NO",
+        "naziv_luke": "Oslo Airport Gardermoen",
+        "naziv_grada": "Oslo",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Finska",
+        "id_luke": 14,
+        "iata_kod": "HEL",
+        "icao_kod": "EFHK",
+        "iso_drzave": "FI",
+        "naziv_luke": "Helsinki Airport",
+        "naziv_grada": "Vantaa",
+        "vremenska_zona": "UTC+2",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Grčka",
+        "id_luke": 15,
+        "iata_kod": "ATH",
+        "icao_kod": "LGAV",
+        "iso_drzave": "GR",
+        "naziv_luke": "Athens International Airport",
+        "naziv_grada": "Atena",
+        "vremenska_zona": "UTC+2",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Belgija",
+        "id_luke": 16,
+        "iata_kod": "BRU",
+        "icao_kod": "EBBR",
+        "iso_drzave": "BE",
+        "naziv_luke": "Brussels Airport",
+        "naziv_grada": "Bruxelles",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Poljska",
+        "id_luke": 17,
+        "iata_kod": "WAW",
+        "icao_kod": "EPWA",
+        "iso_drzave": "PL",
+        "naziv_luke": "Warsaw Chopin Airport",
+        "naziv_grada": "Varšava",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Češka",
+        "id_luke": 18,
+        "iata_kod": "PRG",
+        "icao_kod": "LKPR",
+        "iso_drzave": "CZ",
+        "naziv_luke": "Václav Havel Airport Prague",
+        "naziv_grada": "Prag",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Mađarska",
+        "id_luke": 19,
+        "iata_kod": "BUD",
+        "icao_kod": "LHBP",
+        "iso_drzave": "HU",
+        "naziv_luke": "Budapest Ferenc Liszt International Airport",
+        "naziv_grada": "Budimpešta",
+        "vremenska_zona": "UTC+1",
+        "kategorija_luke": "Međunarodna"
+    },
+    {
+        "drzava": "Latvija",
+        "id_luke": 20,
+        "iata_kod": "RIX",
+        "icao_kod": "EVRA",
+        "iso_drzave": "LV",
+        "naziv_luke": "Riga International Airport",
+        "naziv_grada": "Riga",
+        "vremenska_zona": "UTC+2",
+        "kategorija_luke": "Međunarodna"
     }
 ]
