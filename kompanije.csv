@@ -1,23 +1,23 @@
-id_kompanije,naziv_kompanije,kompanija_iata,kompanija_icao,sjediste_grad,sjediste_drzava,regija_poslovanja,maticna_luka,web_stranica,tip_kompanije,aktivna
-1,Croatia Airlines,OU,CTN,Zagreb,Hrvatska,Europe,Zračna luka Franjo Tuđman,https://www.croatiaairlines.com/,Putnička,t
-2,Austrian Airlines,OS,AUA,Beč,Austrija,Europe,Vienna International Airport,https://www.austrian.com/,Putnička,t
-3,Lufthansa,LH,DLH,Köln,Njemačka,Europe,Frankfurt Airport,https://www.lufthansa.com/,Putnička,t
-4,Condor,DE,CFG,Neu-Isenburg,Njemačka,Europe,Frankfurt Airport,https://www.condor.com/,Putnička,t
-5,British Airways,BA,BAW,London,Ujedinjeno Kraljevstvo,Europe,Heathrow Airport,https://www.britishairways.com/,Putnička,t
-6,Air France,AF,AFR,Tremblay-en-France,Francuska,Europe,Paris Charles de Gaulle Airport,https://www.airfrance.com/,Putnička,t
-7,KLM,KL,KLM,Amstelveen,Nizozemska,Europe,Amsterdam Airport Schiphol,https://www.klm.com/,Putnička,t
-8,Ryanair,FR,RYR,Dublin,Irska,Europe,Dublin Airport,https://www.ryanair.com/,Niskotarifna putnička,t
-9,Aer Lingus,EI,EIN,Dublin,Irska,Europe,Dublin Airport,https://www.aerlingus.com/,Putnička,t
-10,Iberia,IB,IBE,Madrid,Španjolska,Europe,Adolfo Suárez Madrid–Barajas Airport,https://www.iberia.com/,Putnička,t
-11,TAP Air Portugal,TP,TAP,Lisabon,Portugal,Europe,Humberto Delgado Airport,https://www.flytap.com/,Putnička,t
-12,SWISS,LX,SWR,Basel,Švicarska,Europe,Zurich Airport,https://www.swiss.com/,Putnička,t
-13,ITA Airways,AZ,ITY,Rim,Italija,Europe,Leonardo da Vinci–Fiumicino Airport,https://www.ita-airways.com/,Putnička,t
-14,Scandinavian Airlines (SAS),SK,SAS,Solna,Švedska,Europe,Copenhagen Airport,https://www.flysas.com/,Putnička,t
-15,Norwegian Air Shuttle,DY,NAX,Fornebu,Norveška,Europe,Oslo Airport Gardermoen,https://www.norwegian.com/,Niskotarifna putnička,t
-16,Finnair,AY,FIN,Vantaa,Finska,Europe,Helsinki Airport,https://www.finnair.com/,Putnička,t
-17,Aegean Airlines,A3,AEE,Kifisia,Grčka,Europe,Athens International Airport,https://www.aegeanair.com/,Putnička,t
-18,Brussels Airlines,SN,BEL,Diegem,Belgija,Europe,Brussels Airport,https://www.brusselsairlines.com/,Putnička,t
-19,LOT Polish Airlines,LO,LOT,Varšava,Poljska,Europe,Warsaw Chopin Airport,https://www.lot.com/,Putnička,t
-20,Smartwings,QS,TVS,Prag,Češka,Europe,Václav Havel Airport Prague,https://www.smartwings.com/,Putnička,t
-21,Wizz Air,W6,WZZ,Budimpešta,Mađarska,Europe,Budapest Ferenc Liszt International Airport,https://www.wizzair.com/,Niskotarifna putnička,t
-22,airBaltic,BT,BTI,Riga,Latvija,Europe,Riga International Airport,https://www.airbaltic.com/,Putnička,t
+naziv_kompanije,kompanija_iata,kompanija_icao,sjediste_grad,sjediste_drzava,regija_poslovanja,maticna_luka,web_stranica,tip_kompanije,aktivna
+Croatia Airlines,OU,CTN,Zagreb,Hrvatska,Europe,Zračna luka Franjo Tuđman,https://www.croatiaairlines.com/,Putnička,t
+Austrian Airlines,OS,AUA,Beč,Austrija,Europe,Vienna International Airport,https://www.austrian.com/,Putnička,t
+Lufthansa,LH,DLH,Köln,Njemačka,Europe,Frankfurt Airport,https://www.lufthansa.com/,Putnička,t
+Condor,DE,CFG,Neu-Isenburg,Njemačka,Europe,Frankfurt Airport,https://www.condor.com/,Putnička,t
+British Airways,BA,BAW,London,Ujedinjeno Kraljevstvo,Europe,Heathrow Airport,https://www.britishairways.com/,Putnička,t
+Air France,AF,AFR,Tremblay-en-France,Francuska,Europe,Paris Charles de Gaulle Airport,https://www.airfrance.com/,Putnička,t
+KLM,KL,KLM,Amstelveen,Nizozemska,Europe,Amsterdam Airport Schiphol,https://www.klm.com/,Putnička,t
+Ryanair,FR,RYR,Dublin,Irska,Europe,Dublin Airport,https://www.ryanair.com/,Niskotarifna putnička,t
+Aer Lingus,EI,EIN,Dublin,Irska,Europe,Dublin Airport,https://www.aerlingus.com/,Putnička,t
+Iberia,IB,IBE,Madrid,Španjolska,Europe,Adolfo Suárez Madrid–Barajas Airport,https://www.iberia.com/,Putnička,t
+TAP Air Portugal,TP,TAP,Lisabon,Portugal,Europe,Humberto Delgado Airport,https://www.flytap.com/,Putnička,t
+SWISS,LX,SWR,Basel,Švicarska,Europe,Zurich Airport,https://www.swiss.com/,Putnička,t
+ITA Airways,AZ,ITY,Rim,Italija,Europe,Leonardo da Vinci–Fiumicino Airport,https://www.ita-airways.com/,Putnička,t
+Scandinavian Airlines (SAS),SK,SAS,Solna,Švedska,Europe,Copenhagen Airport,https://www.flysas.com/,Putnička,t
+Norwegian Air Shuttle,DY,NAX,Fornebu,Norveška,Europe,Oslo Airport Gardermoen,https://www.norwegian.com/,Niskotarifna putnička,t
+Finnair,AY,FIN,Vantaa,Finska,Europe,Helsinki Airport,https://www.finnair.com/,Putnička,t
+Aegean Airlines,A3,AEE,Kifisia,Grčka,Europe,Athens International Airport,https://www.aegeanair.com/,Putnička,t
+Brussels Airlines,SN,BEL,Diegem,Belgija,Europe,Brussels Airport,https://www.brusselsairlines.com/,Putnička,t
+LOT Polish Airlines,LO,LOT,Varšava,Poljska,Europe,Warsaw Chopin Airport,https://www.lot.com/,Putnička,t
+Smartwings,QS,TVS,Prag,Češka,Europe,Václav Havel Airport Prague,https://www.smartwings.com/,Putnička,t
+Wizz Air,W6,WZZ,Budimpešta,Mađarska,Europe,Budapest Ferenc Liszt International Airport,https://www.wizzair.com/,Niskotarifna putnička,t
+airBaltic,BT,BTI,Riga,Latvija,Europe,Riga International Airport,https://www.airbaltic.com/,Putnička,t

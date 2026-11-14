@@ -1,7 +1,6 @@
 [
     {
         "drzava": "Hrvatska",
-        "id_luke": 1,
         "iata_kod": "ZAG",
         "icao_kod": "LDZA",
         "iso_drzave": "HR",
@@ -12,7 +11,6 @@
     },
     {
         "drzava": "Austrija",
-        "id_luke": 2,
         "iata_kod": "VIE",
         "icao_kod": "LOWW",
         "iso_drzave": "AT",
@@ -23,7 +21,6 @@
     },
     {
         "drzava": "Njemačka",
-        "id_luke": 3,
         "iata_kod": "FRA",
         "icao_kod": "EDDF",
         "iso_drzave": "DE",
@@ -34,7 +31,6 @@
     },
     {
         "drzava": "Ujedinjeno Kraljevstvo",
-        "id_luke": 4,
         "iata_kod": "LHR",
         "icao_kod": "EGLL",
         "iso_drzave": "GB",
@@ -45,7 +41,6 @@
     },
     {
         "drzava": "Francuska",
-        "id_luke": 5,
         "iata_kod": "CDG",
         "icao_kod": "LFPG",
         "iso_drzave": "FR",
@@ -56,7 +51,6 @@
     },
     {
         "drzava": "Nizozemska",
-        "id_luke": 6,
         "iata_kod": "AMS",
         "icao_kod": "EHAM",
         "iso_drzave": "NL",
@@ -67,7 +61,6 @@
     },
     {
         "drzava": "Irska",
-        "id_luke": 7,
         "iata_kod": "DUB",
         "icao_kod": "EIDW",
         "iso_drzave": "IE",
@@ -78,7 +71,6 @@
     },
     {
         "drzava": "Španjolska",
-        "id_luke": 8,
         "iata_kod": "MAD",
         "icao_kod": "LEMD",
         "iso_drzave": "ES",
@@ -89,7 +81,6 @@
     },
     {
         "drzava": "Portugal",
-        "id_luke": 9,
         "iata_kod": "LIS",
         "icao_kod": "LPPT",
         "iso_drzave": "PT",
@@ -100,7 +91,6 @@
     },
     {
         "drzava": "Švicarska",
-        "id_luke": 10,
         "iata_kod": "ZRH",
         "icao_kod": "LSZH",
         "iso_drzave": "CH",
@@ -111,7 +101,6 @@
     },
     {
         "drzava": "Italija",
-        "id_luke": 11,
         "iata_kod": "FCO",
         "icao_kod": "LIRF",
         "iso_drzave": "IT",
@@ -122,7 +111,6 @@
     },
     {
         "drzava": "Danska",
-        "id_luke": 12,
         "iata_kod": "CPH",
         "icao_kod": "EKCH",
         "iso_drzave": "DK",
@@ -133,7 +121,6 @@
     },
     {
         "drzava": "Norveška",
-        "id_luke": 13,
         "iata_kod": "OSL",
         "icao_kod": "ENGM",
         "iso_drzave": "NO",
@@ -144,7 +131,6 @@
     },
     {
         "drzava": "Finska",
-        "id_luke": 14,
         "iata_kod": "HEL",
         "icao_kod": "EFHK",
         "iso_drzave": "FI",
@@ -155,7 +141,6 @@
     },
     {
         "drzava": "Grčka",
-        "id_luke": 15,
         "iata_kod": "ATH",
         "icao_kod": "LGAV",
         "iso_drzave": "GR",
@@ -166,7 +151,6 @@
     },
     {
         "drzava": "Belgija",
-        "id_luke": 16,
         "iata_kod": "BRU",
         "icao_kod": "EBBR",
         "iso_drzave": "BE",
@@ -177,7 +161,6 @@
     },
     {
         "drzava": "Poljska",
-        "id_luke": 17,
         "iata_kod": "WAW",
         "icao_kod": "EPWA",
         "iso_drzave": "PL",
@@ -188,7 +171,6 @@
     },
     {
         "drzava": "Češka",
-        "id_luke": 18,
         "iata_kod": "PRG",
         "icao_kod": "LKPR",
         "iso_drzave": "CZ",
@@ -199,7 +181,6 @@
     },
     {
         "drzava": "Mađarska",
-        "id_luke": 19,
         "iata_kod": "BUD",
         "icao_kod": "LHBP",
         "iso_drzave": "HU",
@@ -210,7 +191,6 @@
     },
     {
         "drzava": "Latvija",
-        "id_luke": 20,
         "iata_kod": "RIX",
         "icao_kod": "EVRA",
         "iso_drzave": "LV",

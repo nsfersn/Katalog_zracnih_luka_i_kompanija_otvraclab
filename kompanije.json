@@ -1,7 +1,6 @@
 [
     {
         "aktivna": true,
-        "id_kompanije": 1,
         "maticna_luka": "Zračna luka Franjo Tuđman",
         "web_stranica": "https://www.croatiaairlines.com/",
         "sjediste_grad": "Zagreb",
@@ -14,7 +13,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 2,
         "maticna_luka": "Vienna International Airport",
         "web_stranica": "https://www.austrian.com/",
         "sjediste_grad": "Beč",
@@ -27,7 +25,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 3,
         "maticna_luka": "Frankfurt Airport",
         "web_stranica": "https://www.lufthansa.com/",
         "sjediste_grad": "Köln",
@@ -40,7 +37,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 4,
         "maticna_luka": "Frankfurt Airport",
         "web_stranica": "https://www.condor.com/",
         "sjediste_grad": "Neu-Isenburg",
@@ -53,7 +49,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 5,
         "maticna_luka": "Heathrow Airport",
         "web_stranica": "https://www.britishairways.com/",
         "sjediste_grad": "London",
@@ -66,7 +61,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 6,
         "maticna_luka": "Paris Charles de Gaulle Airport",
         "web_stranica": "https://www.airfrance.com/",
         "sjediste_grad": "Tremblay-en-France",
@@ -79,7 +73,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 7,
         "maticna_luka": "Amsterdam Airport Schiphol",
         "web_stranica": "https://www.klm.com/",
         "sjediste_grad": "Amstelveen",
@@ -92,7 +85,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 8,
         "maticna_luka": "Dublin Airport",
         "web_stranica": "https://www.ryanair.com/",
         "sjediste_grad": "Dublin",
@@ -105,7 +97,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 9,
         "maticna_luka": "Dublin Airport",
         "web_stranica": "https://www.aerlingus.com/",
         "sjediste_grad": "Dublin",
@@ -118,7 +109,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 10,
         "maticna_luka": "Adolfo Suárez Madrid–Barajas Airport",
         "web_stranica": "https://www.iberia.com/",
         "sjediste_grad": "Madrid",
@@ -131,7 +121,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 11,
         "maticna_luka": "Humberto Delgado Airport",
         "web_stranica": "https://www.flytap.com/",
         "sjediste_grad": "Lisabon",
@@ -144,7 +133,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 12,
         "maticna_luka": "Zurich Airport",
         "web_stranica": "https://www.swiss.com/",
         "sjediste_grad": "Basel",
@@ -157,7 +145,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 13,
         "maticna_luka": "Leonardo da Vinci–Fiumicino Airport",
         "web_stranica": "https://www.ita-airways.com/",
         "sjediste_grad": "Rim",
@@ -170,7 +157,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 14,
         "maticna_luka": "Copenhagen Airport",
         "web_stranica": "https://www.flysas.com/",
         "sjediste_grad": "Solna",
@@ -183,7 +169,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 15,
         "maticna_luka": "Oslo Airport Gardermoen",
         "web_stranica": "https://www.norwegian.com/",
         "sjediste_grad": "Fornebu",
@@ -196,7 +181,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 16,
         "maticna_luka": "Helsinki Airport",
         "web_stranica": "https://www.finnair.com/",
         "sjediste_grad": "Vantaa",
@@ -209,7 +193,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 17,
         "maticna_luka": "Athens International Airport",
         "web_stranica": "https://www.aegeanair.com/",
         "sjediste_grad": "Kifisia",
@@ -222,7 +205,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 18,
         "maticna_luka": "Brussels Airport",
         "web_stranica": "https://www.brusselsairlines.com/",
         "sjediste_grad": "Diegem",
@@ -235,7 +217,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 19,
         "maticna_luka": "Warsaw Chopin Airport",
         "web_stranica": "https://www.lot.com/",
         "sjediste_grad": "Varšava",
@@ -248,7 +229,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 20,
         "maticna_luka": "Václav Havel Airport Prague",
         "web_stranica": "https://www.smartwings.com/",
         "sjediste_grad": "Prag",
@@ -261,7 +241,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 21,
         "maticna_luka": "Budapest Ferenc Liszt International Airport",
         "web_stranica": "https://www.wizzair.com/",
         "sjediste_grad": "Budimpešta",
@@ -274,7 +253,6 @@
     },
     {
         "aktivna": true,
-        "id_kompanije": 22,
         "maticna_luka": "Riga International Airport",
         "web_stranica": "https://www.airbaltic.com/",
         "sjediste_grad": "Riga",
