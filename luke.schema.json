@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/nsfersn/Katalog_zracnih_luka_i_kompanija_otvraclab/blob/main/luke.schema.json",
+  "title": "Katalog zračnih luka",
+  "description": "Otvoreni skup podataka o 20 zračnih luka.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "title": "Zračna luka",
+    "description": "Objekt koji predstavlja jednu instancu zračne luke.",
+    "properties": {
+      "drzava": {
+        "type": "string",
+        "title": "Država",
+        "description": "Označava državu u kojoj se nalazi zračna luka."
+      },
+      "iata_kod": {
+        "type": "string",
+        "title": "IATA kod zračne luke",
+        "description": "IATA identifikacijski kod zračne luke (3 char)."
+      },
+      "icao_kod": {
+        "type": "string",
+        "title": "ICAO kod zračne luke",
+        "description": "ICAO identifikacijski kod zračne luke (4 char)."
+      },
+      "iso_drzave": {
+        "type": "string",
+        "title": "ISO kod države",
+        "description": "Dvoslovni kod države prema standardu ISO 3166-1 alpha-2"
+      },
+      "naziv_luke": {
+        "type": "string",
+        "title": "Naziv zračne luke",
+        "description": "Naziv zračne luke."
+      },
+      "naziv_grada": {
+        "type": "string",
+        "title": "Grad zračne luke",
+        "description": "Naziv grada u kojem se nalazi zračna luka."
+      },
+      "vremenska_zona": {
+        "type": "string",
+        "title": "Vremenska zona",
+        "description": "Vremenska zona u kojoj se nalazi zračna luka izražena pomoću UTC."
+      },
+      "kategorija_luke": {
+        "type": "string",
+        "title": "Kategorija zračne luke",
+        "description": "Označava kategoriju zračne luke, npr. međunarodna, nacionalna, regionalna, lokalna..."
+      }
+    },
+    "required": [
+      "drzava",
+      "iata_kod",
+      "icao_kod",
+      "iso_drzave",
+      "naziv_luke",
+      "naziv_grada",
+      "vremenska_zona",
+      "kategorija_luke"
+    ]
+  }
+}

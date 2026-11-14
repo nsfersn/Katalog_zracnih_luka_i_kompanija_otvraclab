@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="hr">
+  <head>
+    <title>Katalog zračnih luka i kompanija</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="table.css" />
+  </head>
+  <body>
+    <header>
+      <div class="header-container">
+        <nav>
+          <ul class="nav-row">
+            <li><a href="index.html">Početna</a></li>
+            <li>
+              <a href="datatable.html">Zračne kompanije</a>
+            </li>
+            <li><a href="luke.html">Zračne luke</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container">
+      <div class="page-heading">
+        <h1>Pretraživanje katalogiranog skupa podataka o zračnim lukama</h1>
+        <p>Pretražujte sve atribute ili odaberite pojedino polje.</p>
+      </div>
+
+      <section class="search">
+        <div>
+          <h2>Filtriranje podataka</h2>
+          <p>Odaberite kriterij i unesite pojam za pretraživanje.</p>
+        </div>
+        <form id="filter-form" class="filter-form" role="search">
+          <div class="form-field">
+            <label for="search-value">Polje za pretragu</label>
+            <input
+              id="search-value"
+              type="search"
+              placeholder="Unesite vrijednost"
+              autocomplete="off"
+            />
+            <small>Po ovom pojmu pretraživat će se podaci.</small>
+          </div>
+          <div class="form-field">
+            <label for="search-attribute">Atribut pretrage</label>
+            <select id="search-attribute"></select>
+          </div>
+          <div class="form-actions">
+            <button class="button" type="submit">Pretraži</button>
+            <button class="button" type="reset">Poništi filter</button>
+          </div>
+        </form>
+      </section>
+
+      <section class="results-section">
+        <div class="results-toolbar">
+          <div>
+            <h2>Rezultati pretraživanja</h2>
+          </div>
+          <div class="export-actions">
+            <a id="export-csv" class="export-button" href="#">Preuzmi CSV</a>
+            <a id="export-json" class="export-button" href="#">Preuzmi JSON</a>
+          </div>
+        </div>
+
+        <div class="table-container">
+          <table id="data-table">
+            <caption>
+              Filtrirani zapisi iz baze podataka
+            </caption>
+            <thead>
+              <tr id="table-head-row"></tr>
+            </thead>
+            <tbody id="table-body">
+              <tr>
+                <td colspan="2">Nema učitanih podataka.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <p id="table-error" role="alert" hidden></p>
+      </section>
+    </main>
+    <script src="luke.js" defer></script>
+  </body>
+</html>

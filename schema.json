@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/nsfersn/Katalog_zracnih_luka_i_kompanija_otvraclab/blob/main/schema.json",
+  "title": "Katalog zračnih kompanija",
+  "description": "Otvoreni skup podataka o 22 europske zračne kompanije.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "title": "Zračna kompanija",
+    "description": "Objekt koji predstavlja jednu instancu zračne kompanije.",
+    "properties": {
+      "aktivna": {
+        "type": "boolean",
+        "title": "Status aktivnosti",
+        "description": "Označava je li kompanija aktivna."
+      },
+      "maticna_luka": {
+        "type": "string",
+        "title": "Matična zračna luka",
+        "description": "Glavna operativna baza ili prometno čvorište pojedine kompanije."
+      },
+      "web_stranica": {
+        "type": "string",
+        "title": "Web-stranica kompanije",
+        "description": "Adresa službene web-stranice kompanije.",
+        "format": "uri"
+      },
+      "sjediste_grad": {
+        "type": "string",
+        "title": "Grad sjedišta",
+        "description": "Naziv grada u kojem se nalazi sjedište zračne kompanije."
+      },
+      "tip_kompanije": {
+        "type": "string",
+        "title": "Tip kompanije",
+        "description": "Kategorija zračne kompanije, npr. putnička/teretna/niskotarifna putnička..."
+      },
+      "kompanija_iata": {
+        "type": "string",
+        "title": "IATA kod kompanije",
+        "description": "IATA identifikacijski kod zračne kompanije (2 char)."
+      },
+      "kompanija_icao": {
+        "type": "string",
+        "title": "ICAO kod kompanije",
+        "description": "ICAO identifikacijski kod zračne kompanije (3 char)."
+      },
+      "naziv_kompanije": {
+        "type": "string",
+        "title": "Naziv kompanije",
+        "description": "Puni naziv zračne kompanije."
+      },
+      "sjediste_drzava": {
+        "type": "string",
+        "title": "Država sjedišta",
+        "description": "Naziv države u kojoj se nalazi sjedište kompanije."
+      },
+      "regija_poslovanja": {
+        "type": "string",
+        "title": "Regija poslovanja",
+        "description": "Geografska regija u kojoj posluje kompanija."
+      }
+    },
+    "required": [
+      "aktivna",
+      "maticna_luka",
+      "web_stranica",
+      "sjediste_grad",
+      "tip_kompanije",
+      "kompanija_iata",
+      "kompanija_icao",
+      "naziv_kompanije",
+      "sjediste_drzava",
+      "regija_poslovanja"
+    ]
+  }
+}

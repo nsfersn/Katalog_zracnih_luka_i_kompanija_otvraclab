@@ -1,40 +1,5 @@
-const podaci = [
-  {
-    grad: "Zagreb",
-    naziv: "Zračna luka Franjo Tuđman",
-    drzava: "Hrvatska",
-    iata_kod: "ZAG",
-    icao_kod: "LDZA",
-    kontinent: "Europa",
-    iso_drzave: "HR",
-    kategorija: "Međunarodna",
-    vremenska_zona: "UTC+1",
-  },
-  {
-    grad: "Beč",
-    naziv: "Vienna International Airport",
-    drzava: "Austrija",
-    iata_kod: "VIE",
-    icao_kod: "LOWW",
-    kontinent: "Europa",
-    iso_drzave: "AT",
-    kategorija: "Međunarodna",
-    vremenska_zona: "UTC+1",
-  },
-  {
-    grad: "Frankfurt",
-    naziv: "Frankfurt Airport",
-    drzava: "Njemačka",
-    iata_kod: "FRA",
-    icao_kod: "EDDF",
-    kontinent: "Europa",
-    iso_drzave: "DE",
-    kategorija: "Međunarodna",
-    vremenska_zona: "UTC+1",
-  },
-];
-
-let filteredData = podaci;
+let podaci = [];
+let filteredData = [];
 
 function showTable(data) {
   const header = document.getElementById("table-head-row");
@@ -132,7 +97,7 @@ function generateCSV() {
   let csv = [];
   const rows = document.querySelectorAll("#data-table tr");
   for (let i = 0; i < rows.length; i++) {
-    const columns = rows[i].querySelectorAll("td", "th");
+    const columns = rows[i].querySelectorAll("td, th");
     let csvRow = [];
     for (let j = 0; j < columns.length; j++) {
       let val = columns[j].textContent;
@@ -148,6 +113,21 @@ function downloadCSV() {
   if (filteredData.length === 0) return;
   const content = generateCSV();
   downloadFile(content, "podaci.csv", "text/csv");
+}
+
+async function loadData() {
+  try {
+    const res = await fetch("/data/kompanije");
+    if (!res.ok) {
+      throw new Error("Data fetch error");
+    }
+    podaci = await res.json();
+    filteredData = [...podaci];
+    showTable(podaci);
+    fillAttributes(podaci);
+  } catch (e) {
+    console.error(e);
+  }
 }
 
 const form = document.getElementById("filter-form");
@@ -179,5 +159,4 @@ exportJSON.addEventListener("click", function (event) {
   downloadJSON();
 });
 
-showTable(podaci);
-fillAttributes(podaci);
+document.addEventListener("DOMContentLoaded", loadData);
